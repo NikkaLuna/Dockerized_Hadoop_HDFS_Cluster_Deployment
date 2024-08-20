@@ -140,6 +140,6 @@ Press Enter. You should see the Hadoop NameNode UI, which provides an overview o
 - To view the content of a file, you can use the "View" option available in the UI.
 - You can also download the file to your local system if needed.
 
-* **Project Summary**
+## Project Summary
 
-This project involves the successfuly deployment of a Hadoop cluster using Docker, created and managed data in HDFS, and the HDFS was then accessed through a GUI. This project serves as a foundational step in understanding big data technologies and containerized deployments. 
+This project involves the successfuly deployment of a Hadoop cluster using Docker, created and managed data in HDFS, and the HDFS was then accessed through a GUI. 
