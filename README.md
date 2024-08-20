@@ -122,13 +122,18 @@ Press Enter. You should see the Hadoop NameNode UI, which provides an overview o
 3. Browse the File System
 
 - Once you’re on the NameNode UI, look for the "Utilities" section in the left-hand menu or the top navigation bar.
+
+![Utilities](https://github.com/NikkaLuna/Dockerized_Hadoop_HDFS_Cluster_Deployment/blob/main/Hadoop%20GUI.png)
+  
 - Click on Utilities -> Browse the file system.
 - This will allow you to navigate through the directories and files that you’ve created in HDFS.
 
 4. Inspect File Details
 
 - Navigate through the directories (e.g., /user/root/) to find the files you’ve uploaded to HDFS.
-- Click on a file to view detailed information such as its size, block ID, and replication factor.
+- Click on a file to view detailed information such as its size, block ID, and replication factor:
+
+![Directories](https://github.com/NikkaLuna/Dockerized_Hadoop_HDFS_Cluster_Deployment/blob/main/Hadoop%20Directory.png)
 
 5. Download or View File Contents
 
