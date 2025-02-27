@@ -31,7 +31,7 @@ Ensure you have the following installed on your machine:
 - **Hadoop 3.3.6**: Download the Hadoop 3.3.6 binary from the [official Apache Hadoop website](https://hadoop.apache.org/releases.html).
   - After downloading, extract the archive using the following command:
 
-    ```bash
+    ```bash 
     tar -xzf hadoop-3.3.6.tar.gz
     ```
 
@@ -48,8 +48,9 @@ Follow these steps to set up and deploy the Hadoop cluster:
 git clone https://github.com/ibm-developer-skills-network/ooxwv-docker_hadoop.git
 ```
 
+
 Navigate to the Project Directory
-```
+
 
 ```bash 
 cd ooxwv-docker_hadoop
